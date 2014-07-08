@@ -1,0 +1,4 @@
+*.ps1 -crlf
+*.psm1 -crlf
+*.psd1 -crlf
+
